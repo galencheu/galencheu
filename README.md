@@ -4,7 +4,6 @@
 - ✍️ I primarily use Python, R, SQL, and SAS.
 - 🏫 Currently, I am pursuing a M.S. in Data Analytics and Policy at Johns Hopkins University
 - 💻 I am also a Data Analyst at Stanford University
-- 📖 To learn more about me / set up a meeting, visit galenc (dot) com.
 
 <!---
 galencheung/galencheung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
