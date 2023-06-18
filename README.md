@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @galencheung
+- 👋 Hi, I’m Galen
 - 👀 I’m interested in data science, statistics, nature, and travel.
 - 🌱 I’m currently learning data analytics and data science, and interested in collaborating on projects.
 - ✍️ I primarily use Python, R, SQL, Tableau, and SAS.
